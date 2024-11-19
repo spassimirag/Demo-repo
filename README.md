@@ -1,3 +1,3 @@
 # Spasi's gitHub
 
-Get started
+Get started!
